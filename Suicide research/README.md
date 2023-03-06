@@ -1,9 +1,8 @@
-Эта папка представляет собой полный проект. 
+This folder is representing the whole project on the topic:
+"Socio-economic factors associated with the number of suicides in the world"
 
-В папке datasets вы найдете датасеты, используемые в исследовании, а так же датасет, сформированный после вебскреппинга.
+In the datasets folder you will find the datasets used in the study
 
-Информация об предобработке данных представлена в jupiter notebook markdown-записями.
+Data preprocessing information is represented in the jupyter notebook by markdown entries.
 
-В самом файле Project.iypnb две части задания - исследование и вебскреппинг.
-
-Папка models - сохраненные обученные модели ML, данные к ним и словарь раскодировки категориальных переменных.
+The "models" folder contains saved trained ML models, data for them and a dictionary for decoding categorical variables.
