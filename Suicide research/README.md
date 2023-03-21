@@ -1,4 +1,5 @@
 # Socio-economic factors associated with the number of suicides in the world"
+"Socio-economic factors associated with the number of suicides in the world"
 
 ## Project structure
 
@@ -95,7 +96,7 @@ Metrics of final regression model:
 
 Final model explains 86% of the variability in the data, predicts the magnitude of the suicide rate (per 100,000 population) with an absolute mean error of 1.1 points.
 
-The inclusion of variables whose relationship with the target variable was statistically confirmed (especially in case of mental disorders rates) favorably influenced the predictive power of the model:
+The inclusion of variables whose relationship with the target variable was statistically confirmed (partiularly in case of alcoholism and depression rates) favorably influenced the predictive power of the model.
 
 </br>
 
